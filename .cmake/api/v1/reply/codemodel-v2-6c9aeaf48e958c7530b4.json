@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Release-1fae76f010fae799a487.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "HEX_BIN_CHAR_Dateieditor",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "HEX_BIN_CHAR_Dateieditor::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-HEX_BIN_CHAR_Dateieditor-Release-15598e30d6b222a07d0c.json",
+					"name" : "HEX_BIN_CHAR_Dateieditor",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "HEX_BIN_CHAR_Dateieditor_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-HEX_BIN_CHAR_Dateieditor_autogen-Release-a88a74b34e8ab4c46da4.json",
+					"name" : "HEX_BIN_CHAR_Dateieditor_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "HEX_BIN_CHAR_Dateieditor_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-HEX_BIN_CHAR_Dateieditor_autogen_timestamp_deps-Release-4a2c86774b8cb96327f7.json",
+					"name" : "HEX_BIN_CHAR_Dateieditor_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/emil-/OneDrive/Desktop/C.C++/SORTIERT/build-HEX_BIN_CHAR_Dateieditor-Desktop_Qt_6_5_2_MinGW_64_bit-Release",
+		"source" : "C:/Users/emil-/OneDrive/Desktop/C.C++/SORTIERT/HEX_BIN_CHAR_Dateieditor"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
